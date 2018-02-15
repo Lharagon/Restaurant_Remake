@@ -11,7 +11,7 @@ app.config.update(dict(
     MAIL_USE_TLS = False,
     MAIL_USE_SSL = True,
     MAIL_USERNAME = 'projects4port',
-    MAIL_PASSWORD = 'systems11'
+    MAIL_PASSWORD = #placeholder for password
 ))
 
 mail.init_app(app)
